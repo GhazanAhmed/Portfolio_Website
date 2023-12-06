@@ -1,1 +1,1 @@
-![Website Front-End](/images/1.png)
+![Website Front-End](./images/1.png)
